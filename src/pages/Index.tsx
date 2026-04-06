@@ -212,13 +212,13 @@ export default function Index() {
                     className="text-2xl"
                     style={{ fontFamily: "'Cormorant Garamond', serif", color: "#FFFDE7", fontWeight: 600 }}
                   >
-                    15 мая
+                    23 мая
                   </p>
                   <p
                     className="text-sm mt-0.5"
                     style={{ fontFamily: "'Montserrat', sans-serif", color: "rgba(255,253,231,0.6)", fontWeight: 300 }}
                   >
-                    2025 года
+                    2026 года
                   </p>
                 </div>
               </div>
@@ -242,13 +242,13 @@ export default function Index() {
                     className="text-2xl"
                     style={{ fontFamily: "'Cormorant Garamond', serif", color: "#FFFDE7", fontWeight: 600 }}
                   >
-                    19:00
+                    17:00
                   </p>
                   <p
                     className="text-sm mt-0.5"
                     style={{ fontFamily: "'Montserrat', sans-serif", color: "rgba(255,253,231,0.6)", fontWeight: 300 }}
                   >
-                    сбор с 18:30
+                    сбор с 16:30
                   </p>
                 </div>
               </div>
@@ -272,13 +272,13 @@ export default function Index() {
                     className="text-2xl"
                     style={{ fontFamily: "'Cormorant Garamond', serif", color: "#FFFDE7", fontWeight: 600 }}
                   >
-                    Ресторан
+                    Столовая №10
                   </p>
                   <p
                     className="text-sm mt-0.5"
                     style={{ fontFamily: "'Montserrat', sans-serif", color: "rgba(255,253,231,0.6)", fontWeight: 300 }}
                   >
-                    ул. Праздничная, 1
+                    Белый зал
                   </p>
                 </div>
               </div>
